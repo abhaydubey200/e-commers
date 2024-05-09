@@ -1,7 +1,3 @@
-Sure, here's a unique README for your MERN stack e-commerce website:
-
----
-
 # E-Shopify: Your Ultimate E-Commerce Destination 🛍️
 
 Welcome to E-Shopify, where shopping meets convenience and style! Built on the MERN stack, our platform offers a seamless shopping experience for users while providing robust features for admins to manage products, orders, and more.
@@ -66,7 +62,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact 📧
 
-Have questions or suggestions? Feel free to reach out to us at [email@example.com](mailto:email@example.com).
+Have questions or suggestions? Feel free to reach out to us at [email@example.com](dubeyabhay430@gmail.com).
 
 ---
 
