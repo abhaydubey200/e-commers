@@ -50,10 +50,6 @@ Welcome to E-Shopify, where shopping meets convenience and style! Built on the M
 
 We welcome contributions from developers of all skill levels. Whether you're fixing a bug, improving documentation, or adding a new feature, your input is valued! Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more details.
 
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments 🙏
 
 - Hat tip to anyone whose code was used
